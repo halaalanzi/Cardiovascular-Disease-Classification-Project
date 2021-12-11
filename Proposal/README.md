@@ -1,6 +1,7 @@
 # Cardiovascular Disease dataset
 ## Data Overview
-Machine learning has emerged as an effective medical diagnostic support system. In a medical diagnosis problem, a set of features that are representative of all the variations of the disease are necessary.Through the project, a more accurate conclusion will be made about the presence of cardiovascular disease in a person. Hence,  find the best ML models for predicting a patient's condition based on many features.
+Cardiovascular disease is a class of diseases that involve the heart or blood vessels. And are the leading cause of death worldwide by representing 32% of all global deaths, which is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin.
+Through this project we want to build a model to predict the patient's condition based on many features related to the patient.
 
 <p align="center" width="100%">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd1jGL81LdZj-KyCqOlv1eM2ytdtv7DTi1gICoE6Mcc6wDULpCtevZT9n8D8Sq6Tg-V-0&usqp=CAU" width="700" style="display: block; margin: 0 auto"/>
