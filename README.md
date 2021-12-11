@@ -3,5 +3,5 @@ Data science Project one of core element of T5 Boot camp from SDAIA Academy
 
 
 <p align="center" width="100%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd1jGL81LdZj-KyCqOlv1eM2ytdtv7DTi1gICoE6Mcc6wDULpCtevZT9n8D8Sq6Tg-V-0&usqp=CAU" width="700" style="display: block; margin: 0 auto"/>
+<img src="http://www.msif.org/wp-content/uploads/2018/09/Cardiovascular-for-website-900x0-c-default.png" width="700" style="display: block; margin: 0 auto"/>
 </p>
