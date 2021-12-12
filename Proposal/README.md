@@ -54,13 +54,18 @@ Below is a description of the features:
 4. Is the weight a factor in infection with Cardiovascular disease?
 
 
-## Algorithms
-- KNN
-- Logistic Regression
-- Decision Tree Classification
-- Random Forest Classification
-- SVM
-- Naive Bayes
+## Classification Algorithms
+
+**On this dataset we used different methods of classification :**
+
+- KNN models.
+- Descion Tree model.
+- Logistic regression model.
+- Random forest model.
+- Gradient boosting model.
+- XGradient boosting model.
+- Naive bayes model (NB).
+- Support vector machain model (SVM).
 
 ## Tools
 - Libraries: 
