@@ -1,4 +1,4 @@
-   # Cardiovascular Disease 
+   # Prediction of Cardiovascular Disease using Classification Models
 
 <p align="center" width="100%">
 <img src="http://www.msif.org/wp-content/uploads/2018/09/Cardiovascular-for-website-900x0-c-default.png" />
@@ -39,6 +39,9 @@ Below is a description of the features:
 | cardio        | Presence or absence of cardiovascular disease | int64 |
 
 
+## Goals
+- Build a classification model to predict the patient's condition.
+- Choose the model that give us the best prediction.
 
 
 ## Questions
