@@ -9,14 +9,6 @@ Cardiovascular disease is a class of diseases that involve the heart or blood ve
 Through this project we want to build a model to predict the patient's condition based on many features related to the patient.
 
 
-## Table of contents
-* [Data Description](#data-description)
-* [Questions](#questions)
-* [Algorithms](#algorithms)
-* [Tools](#tools)
-* [Source](#source)
-* [Authors](#authors)
-
 ## Data Description
 The dataset consists of 13 features and 70,000 observations.
 
