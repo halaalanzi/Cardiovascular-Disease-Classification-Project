@@ -8,6 +8,10 @@
 Cardiovascular disease is a class of diseases that involve the heart or blood vessels. And are the leading cause of death worldwide by representing 32% of all global deaths, which is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin.
 Through this project we want to build a model to predict the patient's condition based on many features related to the patient.
 
+## Goals
+- Build a classification model to predict the patient's condition.
+- Choose the model that give us the best prediction.
+
 
 ## Data Description
 The dataset consists of 13 features and 70,000 observations.
@@ -29,11 +33,6 @@ Below is a description of the features:
 | alco          | Alcohol intake | int64 |
 | active        | Physical activity | int64 |
 | cardio        | Presence or absence of cardiovascular disease | int64 |
-
-
-## Goals
-- Build a classification model to predict the patient's condition.
-- Choose the model that give us the best prediction.
 
 
 ## Questions
