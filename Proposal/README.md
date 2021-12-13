@@ -35,16 +35,6 @@ Below is a description of the features:
 | cardio        | Presence or absence of cardiovascular disease | int64 |
 
 
-## Questions
-1. Does the age has any impact on Cardiovascular disease?
-
-2. What is the sex most affected Cardiovascular disease?
-
-3. Is the smoking a factor in infection with Cardiovascular disease?
-
-4. Is the weight a factor in infection with Cardiovascular disease?
-
-
 ## Classification Algorithms
 
 **On this dataset we used different methods of classification :**
