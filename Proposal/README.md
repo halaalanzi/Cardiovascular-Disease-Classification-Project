@@ -9,7 +9,7 @@ Cardiovascular disease is a class of diseases that involve the heart or blood ve
 Through this project we want to build a model to predict the patient's condition based on many features related to the patient.
 
 ## Goals
-- Build a classification model to predict the patient's condition.
+- Build a classification model to predict the patient's condition based on medical examination for the patient.
 - Choose the model that give us the best prediction.
 
 
