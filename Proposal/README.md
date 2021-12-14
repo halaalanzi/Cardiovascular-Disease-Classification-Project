@@ -8,10 +8,8 @@
 Cardiovascular disease is a class of diseases that involve the heart or blood vessels. And are the leading cause of death worldwide by representing 32% of all global deaths, which is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin.
 Through this project we want to build a model to predict the patient's condition based on many features related to the patient.
 
-## Goals
-- Build a classification model to predict the patient's condition based on medical examination for the patient.
-- Choose the model that give us the best prediction.
-
+## Purpose
+The objective in this project is to build machine learning models to classify or identify patient's condition based on medical examination for the patient.
 
 ## Data Description
 The dataset consists of 13 features and 70,000 observations.
