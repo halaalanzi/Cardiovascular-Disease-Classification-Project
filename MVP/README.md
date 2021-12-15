@@ -9,7 +9,7 @@ The goal of this project is to build machine learning models to classify or iden
 - Rename columns.
 - convert [age] from days to years
 - Remove outlire
-After cleaning the data set the remain rows are.
+After cleaning the data set the remain rows are 61296.
 
 ## Data Exploration:
 
@@ -23,7 +23,7 @@ After we exploration our data, we noticed that our data is balanced.
 Also, we noticed that we when ever the age of the patients increase the number of the patients also increased, this is mean that the age is a important vector in Cardiovascular disease . 
 
 
-## modeling:
+## Modeling:
 
 **Beasline model**
 |    Model      | Training score| Validation score |
@@ -31,14 +31,14 @@ Also, we noticed that we when ever the age of the patients increase the number o
 | LogisticRegression | 0.7094   | 0.6933           |
  
 **Models after removing the outliers, adding features engineering, and scaling the dataset.**
-|    Model      | Training score| Validation score |
+|    Models     | Training score| Validation score |
 | ------------- | ------------- | ---------------- |
 | LogisticRegression | 0.7288   | 0.7148           |
 | knn                | 0.7833   | 0.6818           |
 | DecisionTree       | 0.9952   | 0.6127           |
 
 
-### Futur work:
+### Future work:
 
 - we will train various machine learning algorithms.
 - fixing the overfitting on the models.
