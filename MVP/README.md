@@ -11,14 +11,14 @@ The goal of this project is to build machine learning models to classify or iden
 - Remove outlire
 After cleaning the data set the remain rows are.
 
-
 ## Data Exploration:
 
-![](C:\Users\Microsoft-pc\Desktop\download (1).png)
+![balanced](https://user-images.githubusercontent.com/93076337/146259064-6a614b5a-d643-470f-90f2-f48b568f8f1e.png)
 
 After we exploration our data, we noticed that our data is balanced.
 
-![](C:\Users\Microsoft-pc\Desktop\download (1).png)
+
+![age](https://user-images.githubusercontent.com/93076337/146259594-9d3737ce-618a-4522-b6dc-a84613046f8b.png)
 
 Also, we noticed that we when ever the age of the patients increase the number of the patients also increased, this is mean that the age is a important vector in Cardiovascular disease . 
 
