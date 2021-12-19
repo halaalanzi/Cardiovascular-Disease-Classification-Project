@@ -12,7 +12,7 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 - [Project Proposal](https://github.com/halaalanzi/Cardiovascular-Disease-Classification-Project/tree/main/Proposal)
 - [Dataset](https://github.com/halaalanzi/Cardiovascular-Disease-Classification-Project/tree/main/Dataset)
 - [Project MVP](https://github.com/halaalanzi/Cardiovascular-Disease-Classification-Project/tree/main/MVP)
-- [Jupyter Notebooks]()
+- [Jupyter Notebooks](https://github.com/halaalanzi/Cardiovascular-Disease-Classification-Project/tree/main/Code)
 - [Final Report]()
 - [Slides Presentation](https://github.com/halaalanzi/Cardiovascular-Disease-Classification-Project/tree/main/Slides)
 
