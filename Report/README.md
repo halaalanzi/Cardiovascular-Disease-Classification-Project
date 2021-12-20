@@ -67,7 +67,7 @@ The Best 3 Models:  XGB Classifier , Stacking Classifier and MLP Classifier
 </br>
 - Evaluating gridsearch for the best models
 
-#### Tools:
+## Tools:
 - Jupyter notebook
 - Numpy 
 - Pandas 
