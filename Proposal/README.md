@@ -1,74 +1,77 @@
-   # Prediction of Cardiovascular Disease using Classification Models
+# Cardiovascular Disease Prediction.
 
-<p align="center" width="100%">
-<img src="http://www.msif.org/wp-content/uploads/2018/09/Cardiovascular-for-website-900x0-c-default.png" />
-</p>
+Mashael  Alfehaid - Hala Alanazi
 
-## Data Overview
-Cardiovascular disease is a class of diseases that involve the heart or blood vessels. And are the leading cause of death worldwide by representing 32% of all global deaths, which is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin.
-Through this project we want to build a model to predict the patient's condition based on many features related to the patient.
+____
 
-## Purpose
-The goal of this project is to build machine learning models to classify or identify patient's condition on Cardiovascular Disease based medical examination for the patient.
+## Overview
+This project worked on a data set containing an Cardiovascular disease , It was collected at the time of the medical examination. The goal of this project is to build machine learning models to classify or identify patient's condition on Cardiovascular Disease based medical examination for the patient.
 
-## Data Description
-The dataset consists of 13 features and 70,000 observations.
+## Goals
 
-Below is a description of the features: 
+- Build a classification model to predict Cardiovascular Disease.
+- Choose the model that give us the best accuracy.
 
-| Feature name  | Description   | Data type |
-| ------------- | ------------- | ------------- |
-| id            | unique number | int64         |
-| age           | patient's age in days| int64       |
-| gender        | women or men  | int64         |
-| height        | patient's height (cm)| int64         |
-| weight        | patient's weight (kg)| float64       |
-| ap_hi         | Systolic blood pressure | int64      |
-| ap_lo         | Diastolic blood pressure | int64 |
-| cholesterol   | Cholesterol level in the patient's body | int64 |
-| gluc          | The patient's body glucose level | int64 |
-| smoke         | patient smokes or not | int64 |
-| alco          | Alcohol intake | int64 |
-| active        | Physical activity | int64 |
-| cardio        | Presence or absence of cardiovascular disease | int64 |
+## Methodology
 
 
-## Classification Algorithms
+1- Loading the dataset.
 
-**On this dataset we used different methods of classification :**
+2- EDA (cleaning and visualizing the data).
 
-- KNN models.
-- Descion Tree model.
-- Logistic regression model.
-- Random forest model.
-- Gradient boosting model.
-- XGradient boosting model.
-- Naive bayes model (NB).
-- Support vector machain model (SVM).
+3- Building different classification Models.
 
-## Tools
-- Libraries: 
-pandas, 
-numpy, 
-matplotlib, 
-seaborn, 
-plotly, 
-sklearn.
+4- choosing the model based on given best accuracy to prediction.
 
-- Softwares: 
-GitHub, 
-Jupyter,
-Zoom,
-Canva,
-PowerPoint.
-    
-## Source
-from Kaggle website [here](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+## Dataset
 
-# Authors
-[@halaalanzi](https://github.com/halaalanzi)
+We used a dataset of Cardiovascular Disease from Kaggle website [here](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+- The dataset contains 70,000 observations and 13 features.
 
-[@Mashael999](https://github.com/Mashael999)
 
-Project at SDAIA Academy
+Our EDA steps :
+- Dropped all duplicated and unneeded rows and columns.
+- Rename columns.
+- Remove outliers .
+- convert [age] from days to years.
+- Converted categorical data into numeric.
+- Numeric and categorical data visualization.
 
+After cleaning the data set the rows became 61,296 and columns are 24.
+
+#### Feature Engineering:
+we bulied multbl of features:
+- BMI measure of body fat based on height and weight and put it into category
+- Ratio between systolic blood pressure and diastolic blood pressure
+- Relationship of pressure with weight
+- Put the age column into category
+- Put blood pressure  columns into category
+
+#### Model Building: 
+Over 8 models were tried and played with to get the best model that goes hand in hand with the dataset. After performing simple train and validation on the  models one was chosen for further investigation. Models trained was:
+
+- Logstic regression (Baseline)
+- MLP Classifier
+- knn 
+- Decision Tree 
+- Naive Bayes (GaussianNB)
+- Random forest
+- XGB Classifier
+- Ensemble Methods (Max Voting, Average Voting, and Stacking Classifier)
+
+
+The Best 3 Models:  XGB Classifier , Stacking Classifier and MLP Classifier
+
+</br>
+- Dealing with low accuracy by using featuers selection.
+</br>
+- Evaluating gridsearch for the best models
+
+#### Tools:
+- Jupyter notebook
+- Numpy 
+- Pandas 
+- Matplotlib 
+- Seaborn  
+- Sklearn
+- Jupyter notebook
