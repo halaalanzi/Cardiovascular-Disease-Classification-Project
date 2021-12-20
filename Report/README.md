@@ -5,7 +5,7 @@ Mashael  Alfehaid - Hala Alanazi
 ____
 
 ## Overview
-This project worked on a data set containing an Cardiovascular disease , It was collected at the time of the medical examination. The goal of this project is to build machine learning models to classify or identify patient's condition on Cardiovascular Disease based medical examination for the patient.
+This project worked on a data set containing an Cardiovascular disease , It was collected at the time of the medical examination. The project aimed to build machine learning models to classify or identify patient's condition on Cardiovascular Disease based medical examination for the patient. We have trained our data on Over eight models . The best accuracy among these algorithms is Extreme Gradient Boosting.
 
 ## Goals
 
