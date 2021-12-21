@@ -1,6 +1,6 @@
 # Cardiovascular Disease Prediction.
 
-Mashael  Alfehaid - Hala Alanazi
+Hala Alanazi - Mashael  Alfehaid 
 
 ____
 
